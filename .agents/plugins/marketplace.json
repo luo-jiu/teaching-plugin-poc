@@ -1,0 +1,20 @@
+{
+  "name": "teaching-poc",
+  "interface": {
+    "displayName": "Teaching Poc"
+  },
+  "plugins": [
+    {
+      "name": "teaching-plugin-poc",
+      "source": {
+        "source": "local",
+        "path": "./plugins/teaching-plugin-poc"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "education"
+    }
+  ]
+}
