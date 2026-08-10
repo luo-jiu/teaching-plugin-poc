@@ -1,6 +1,6 @@
 {
   "name": "teaching-plugin-poc",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260810025530",
   "description": "A minimal teaching skill plugin for Codex App distribution testing.",
   "author": {
     "name": "luo-jiu"
