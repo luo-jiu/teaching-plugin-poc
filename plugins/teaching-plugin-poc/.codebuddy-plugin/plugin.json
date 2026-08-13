@@ -1,7 +1,7 @@
 {
   "name": "teaching-plugin-poc-https",
   "description": "A minimal teaching skill suite for WorkBuddy update testing.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "luo-jiu"
   },

@@ -9,7 +9,7 @@ Respond in Chinese with exactly these two lines:
 
 ```text
 教研插件已安装成功。
-插件版本：0.2.0（WorkBuddy Public HTTPS 安装验证）
+插件版本：0.2.1（WorkBuddy Public HTTPS 刷新升级成功）
 ```
 
 Do not call tools or inspect project files for this check.
