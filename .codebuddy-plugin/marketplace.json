@@ -1,14 +1,14 @@
 {
-  "name": "teaching-plugin-poc",
+  "name": "teaching-plugin-poc-https",
   "description": "Teaching plugin update proof of concept for WorkBuddy.",
   "owner": {
     "name": "luo-jiu"
   },
   "plugins": [
     {
-      "name": "teaching-plugin-poc",
+      "name": "teaching-plugin-poc-https",
       "description": "A minimal teaching skill suite for WorkBuddy update testing.",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "source": "./plugins/teaching-plugin-poc",
       "category": "education",
       "author": {
